@@ -222,7 +222,7 @@ For Each Supplier In jsonObject("cdn")
         
         Sheets(sheetName).Cells(rowCount, 1).Value = suppCount
         Sheets(sheetName).Cells(rowCount, 2).Value = crCount
-        Sheets(sheetName).Cells(rowCount, 4).Value = suppGST
+        Sheets(sheetName).Cells(rowCount, 3).Value = suppGST
         Sheets(sheetName).Cells(rowCount, 4).Value = Item("rsn")
         Sheets(sheetName).Cells(rowCount, 5).Value = Item("inum")
         Sheets(sheetName).Cells(rowCount, 6).Value = Item("idt")
