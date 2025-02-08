@@ -5,6 +5,9 @@ tags: India GST json excel viewer free
 
 Many thanks to the wonderful [JSONLib](http://code.google.com/p/vba-json/ ) that made this possible much quicker.
 
+## Revision
+* Jan 2025 - Updated to latest Json Schema and updated the Json lib
+
 ## Instructions for using
 * Download the excel and save it to a local folder
 * Download the json file from GST portal and save it with file name gstfile.json (this is important)
